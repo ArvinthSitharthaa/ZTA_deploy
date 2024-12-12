@@ -18,9 +18,17 @@ Here’s an ideal setup for your project:
 **4. How To Launch Streamlit:**
 Step 1: Edit the file cloud_pred with IDLE and rename the location to the trained model
 which is in the name “zta_finalized_model.sav”
+
+![image](https://github.com/user-attachments/assets/5e0097eb-9dd0-4c71-8cf9-bfdfb8ab29c3)
+
 Step 2: Launch cloud_pred.py using the command “ python -m streamlit run
 cloud_pred.py” “
+
+![image](https://github.com/user-attachments/assets/cd00378d-90e5-4d00-8807-3889964c5872)
+
 Step 3: Provide the values for the top 10 features
+![image](https://github.com/user-attachments/assets/47c630eb-8608-4658-91b5-79b30131f402)
 
 **Result: "benign" refers to non-malicious or normal network traffic or activities.
 “Malicious” refers Malicious traffic involving a attack ex,. DDOS, Injection.**
+
